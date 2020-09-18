@@ -1,1 +1,1 @@
-# justin_repo
+# Proposal outline
