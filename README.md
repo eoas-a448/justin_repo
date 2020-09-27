@@ -1,4 +1,4 @@
 # Proposal outline
 Potential research questions:
--Extratropical Cyclones
--Urban Meteorology
+* Extratropical Cyclones
+* Urban Meteorology
